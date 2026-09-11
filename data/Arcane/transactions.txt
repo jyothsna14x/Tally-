@@ -1,0 +1,2 @@
+Wipro,SELL,20,100.0
+Silver,BUY,50,2000.0
